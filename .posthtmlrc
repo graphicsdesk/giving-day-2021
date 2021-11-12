@@ -7,12 +7,70 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "On its 10th annual Giving Day, Columbia broke its own record of over $24 million in donations by raising nearly $28 million. The top three causes in total donations were Columbia College, Athletics, and Barnard."
+          },
+          {
+            "type": "text",
+            "value": "While Columbia football and basketball are perennially unsuccessful—combined, they lay claim to only two Ivy League titles and have historically languished in the conference's bottom half—Athletics consistently ranks among the top three organizations garnering the most donations on Giving Day. This year, Athletics received about a third of total Giving Day donations, raising $2,930,557.23—a 7.86 percent decrease in donations from last year."
+          },
+          {
+            "type": "text",
+            "value": "In 2020, when all Ivy League competitions were suspended due to COVID-19, Columbia Athletics received a total of 4870 gifts from donors. However, with the return of in-person competition, that number rose to a total of 7035 donations. This 44.46 percent increase was the greatest among any organization, awarding Athletics an extra $8,000 in prize money."
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://www.columbiaspectator.com/sports/2021/10/19/after-a-year-of-canceled-sports-giving-day-promises-to-gather-large-donations-for-athletics/\">Despite hope that a post-pandemic market surge and the return of in-person sports would increase donations</a>, some teams struggled to recuperate from last year’s Giving Day losses. In 2019, men’s basketball raised $250,715. In 2020, an abysmal season—in which it recorded only one conference win in 14 games—that was cut short due to COVID-19, the team faced a nearly <a href=\"https://www.columbiaspectator.com/sports/2020/11/24/basketball-fencing-face-significant-giving-day-losses-but-that-may-not-have-immediate-consequences/\">88 percent decrease</a> in donations to receive only $30,487. This year, <a href=\"https://www.columbiaspectator.com/sports/2021/11/09/mens-basketball-to-take-on-fordham-and-marist-in-first-games-since-march-2020/\">men’s basketball</a> received the 13th most donations among Columbia organizations, garnering $92,783. While this total represents a 204 percent increase from the previous year, it still lags 63 percent below pre-pandemic donation levels."
+          },
+          {
+            "type": "text",
+            "value": "This drop was to be a trend among several sports. Fencing experienced a similar decline: In 2019, the national-championship-winning squad received $201,052.06 in donations only to experience a sharp decrease in gifts in 2020, only accruing $82,510.50 that year. While donations for the fencing team are up about 68.16 percent this year, with fencing receiving about $138,752, it still represents a significant reduction in donations for one of the few sports at Columbia that is consistently competitive for a national title."
+          },
+          {
+            "type": "text",
+            "value": "Perhaps the most shocking decline in donations comes from football, which came in second on the Athletics leaderboard. Last year, despite the ongoing pandemic and lack of competition, football topped the rest of Athletics with $274,060.37 in donations, representing a 33 percent increase from 2019 when the team raised $206,495. This year, it failed to meet even its donation benchmark from 2019, raising $180,537—a 34 percent decrease from the previous year. This comes just four days after a homecoming victory over Penn, its first homecoming game in two years, bringing in alumni from all over the country."
+          },
+          {
+            "type": "text",
+            "value": "While some sports faced significant drops in gifts, other teams flourished. In 2019, men’s tennis only received $59,270, one of the lowest totals in the department. This year, the team flipped the script, receiving the most donations among all varsity sports. In fact, the team blew its previous total out of the water to receive $308,190, a startling 419.98 percent increase from 2019. Tennis, whose new state-of-the-art facility recently began construction and will be ready by fall 2022, amassed donations making up over 10 percent of the total received by Athletics."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "givingday2021gfx.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "As some sports struggled and others thrived, the athletic department publicly acknowledged this year’s Giving Day as a success."
+          },
+          {
+            "type": "text",
+            "value": "In a tweet from Columbia Athletics, Peter Pilling, Columbia’s athletic director, said, “The support for our student-athletes, coaches and sports programs on Giving Day is truly remarkable. Thank you to all of our alumni and friends of Columbia Athletics. Your contributions will play a vital role in achieving championship success.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Sports Editor </i><i>Jorge Hernandez</i><i> can be contacted at </i><a href=\"mailto:jorge.hernandez@columbiaspectator.com\"><i>jorge.hernandez@columbiaspectator.com</i></a><i>. Follow him on Twitter </i><a href=\"https://twitter.com/jhernandez2001?lang=en\"><i>@jhernandez2001</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics reporter Andrew Park can be contacted at </i><a href=\"mailto:andrew.park@columbiaspectator.com\"><i>andrew.park@columbiaspectator.com</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Columbia Athletics brings in $3 million on Giving Day, but individual sports struggle to meet last year’s benchmarks",
+        "date": "October 17, 2019",
+        "byline": "By Jorge Hernandez\nGraphic by Andrew Park",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/168PRaK2NFIyDlUbnzkixX1oQlImcSQYTbJt-AsuPOOY/edit"
       }
     }
   }
